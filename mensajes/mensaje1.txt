@@ -1,0 +1,11 @@
+Las empresas son más rápidas y responden mejor a las 
+exigencias en constante evolución de los consumidores 
+cuando utilizan repositorios para el desarrollo de 
+aplicaciones. Los desarrolladores pueden trabajar 
+rápidamente en características nuevas sin que ello afecte 
+a la estabilidad de la aplicación en funcionamiento. Los 
+repositorios permiten a los desarrolladores introducir 
+cambios y resolver problemas potenciales con rapidez. Las 
+organizaciones también pueden coordinar las tareas de 
+desarrollo de aplicaciones entre desarrolladores que 
+trabajan a distancia.
