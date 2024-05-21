@@ -1,0 +1,5 @@
+Autor: Noé Cruz Alvarado
+Grupo: DS02SV-23
+Carrera: Ing. En Desarrollo y Gestión de Software
+Proyecto: Práctica Git
+
