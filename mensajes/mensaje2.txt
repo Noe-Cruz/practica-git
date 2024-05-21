@@ -1,0 +1,8 @@
+GitHub es un repositorio basado en la nube que permite a 
+los desarrolladores almacenar y trabajar en los códigos de 
+los proyectos de forma organizada. GitHub está basado en 
+Git, un sistema de control de versiones, e incluye 
+características adicionales que mejoran la colaboración 
+entre desarrolladores. Proporciona una interfaz gráfica de 
+usuario que facilita el uso de las funciones del 
+repositorio.
